@@ -1,3 +1,45 @@
+# 🧠 Proyecto: Katas de Lógica en Python
+
+## Repositorio de ejercicios prácticos (katas) diseñados para reforzar conceptos fundamentales de programación en Python, con especial énfasis en:
+
+· Funciones
+· Estructuras de datos
+· Programación funcional (map, filter, lambda)
+· Manejo de excepciones
+· Recursividad
+· Manipulación de cadenas y listas
+· Implementación de clases personalizadas
+
+# 🎯 Objetivo del proyecto
+
+El propósito de este proyecto es:
+· Practicar pensamiento lógico y resolución de problemas.
+· Consolidar buenas prácticas en Python.
+· Familiarizarse con funciones de orden superior y control de errores.
+· Servir como material de estudio y referencia personal.
+
+# 📁 Estructura del repositorio (recomendada)
+proyecto-python/
+│
+├── README.md
+├── pagina1.ipynb
+├── pagina2.ipynb
+├── pagina3.ipynb
+├── EnunciadoDataProjectPython.pdf
+└── ejercicio31.py
+
+# ⚙️ Requisitos
+Python 3.9 o superior
+
+Puedes comprobar tu versión con:
+```python --version```
+
+# ▶️ Cómo ejecutar las katas
+Desde la raíz del proyecto:
+```python ejercicio31.py```
+
+El resto de ejercicios están en formato .ipynb por lo que requeriremos de tener jupyter instalado o utilizar Google Colab en su defecto.
+
 # PROYECTO LÓGICA: Katas de Python
 
 ## 1. Escribe una función que reciba una cadena de texto como parámetro y devuelva un diccionario con las frecuencias de cada letra en la cadena. Los espacios no deben ser considerados.
