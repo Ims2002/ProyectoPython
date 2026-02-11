@@ -2,23 +2,25 @@
 
 ## Repositorio de ejercicios prácticos (katas) diseñados para reforzar conceptos fundamentales de programación en Python, con especial énfasis en:
 
-· Funciones
-· Estructuras de datos
-· Programación funcional (map, filter, lambda)
-· Manejo de excepciones
-· Recursividad
-· Manipulación de cadenas y listas
-· Implementación de clases personalizadas
+- Funciones
+- Estructuras de datos
+- Programación funcional (map, filter, lambda)
+- Manejo de excepciones
+- Recursividad
+- Manipulación de cadenas y listas
+- Implementación de clases personalizadas
 
 # 🎯 Objetivo del proyecto
 
 El propósito de este proyecto es:
-· Practicar pensamiento lógico y resolución de problemas.
-· Consolidar buenas prácticas en Python.
-· Familiarizarse con funciones de orden superior y control de errores.
-· Servir como material de estudio y referencia personal.
+- Practicar pensamiento lógico y resolución de problemas.
+- Consolidar buenas prácticas en Python.
+- Familiarizarse con funciones de orden superior y control de errores.
+- Servir como material de estudio y referencia personal.
 
-# 📁 Estructura del repositorio (recomendada)
+## 📁 Estructura del repositorio
+
+```text
 proyecto-python/
 │
 ├── README.md
@@ -27,6 +29,8 @@ proyecto-python/
 ├── pagina3.ipynb
 ├── EnunciadoDataProjectPython.pdf
 └── ejercicio31.py
+```
+
 
 # ⚙️ Requisitos
 Python 3.9 o superior
